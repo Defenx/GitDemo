@@ -3,6 +3,7 @@ package org.example;
 public class Calculator {
   
   //test7
+  //test8
   public static double divide(double num, double delimetr) {
       return num / delimetr;
   }
