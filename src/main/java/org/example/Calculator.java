@@ -9,10 +9,9 @@ public class Calculator {
   public static double sum(double a, double b) {
       return a + b;
   }
-
+  
   // todo: test
   // todo: test3
-    //todo: test5
   public static double substract(double a, double b) {
       return a - b;
   }
