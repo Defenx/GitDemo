@@ -11,8 +11,11 @@ public class Calculator {
   }
   
   // todo: test
+   // todo: test3
+  // todo: test4
+    //todo: test5
   public static double substract(double a, double b) {
-      return a - b;
+    return a - b;
   }
 
   public static double multiply(double a, double b) {
