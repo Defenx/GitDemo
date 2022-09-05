@@ -11,6 +11,7 @@ public class Calculator {
   }
   
   // todo: test
+    //todo: valera
   public static double substract(double a, double b) {
       return a - b;
   }
