@@ -10,6 +10,7 @@ public class Calculator {
       return a + b;
   }
   
+  // todo: test
   public static double substract(double a, double b) {
       return a - b;
   }
